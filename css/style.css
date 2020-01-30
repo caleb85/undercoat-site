@@ -590,7 +590,7 @@ header h1 {
 }
 
 #slider1 > ul > li:nth-of-type(2) {
-  background: url(../img/banner1.jpg) no-repeat center;
+  background: url(../img/banner2.jpg) no-repeat center;
   background-size: cover;
 }
 
